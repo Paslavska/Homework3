@@ -1,0 +1,25 @@
+p {
+    color: red;
+}
+
+#list-vegetables {
+    color: brown;
+}
+
+#list-products:hover {
+    color: green;
+    
+}
+
+a:active { color: lime; } 
+#myhomework::pseudo-element 
+    p::first-line {
+    color:blue;
+    font-variant:small-caps;
+}
+h1 {
+    font-family:Arial;
+}
+h2 { 
+    font-family:serif;
+}
